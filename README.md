@@ -11,7 +11,7 @@
 [![GIT](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]() 
 
 # 📈GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosVini9999&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosVini9999&show_icons=true&theme=dark)
 
 ## ➡ Connect with me🌎
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/marcosvinciusandradedesousa)
