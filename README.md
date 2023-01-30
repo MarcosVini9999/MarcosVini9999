@@ -1,6 +1,7 @@
 # Hi! My name is Marcos Vinicius 👋💻 
 ### I'm a computer engineering student at the federal university of ceará, my study focus is web development.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MarcosVini9999&color=yellow" alt="Profile views" /> </p>
 
 # Languages and Tools 🔧
 [![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]() 
