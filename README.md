@@ -1,6 +1,6 @@
 # Hi there! 👋💻 I'm Marcos Vinicius
 
-🚀 Computer Engineer with 3 years of professional experience, focusing on Software Engineering, Algorithms, Database, Cloud Computing, and Artificial Intelligence. 💻 Transforming concepts into robust and efficient code. 🌐 Specialized in designing innovative and scalable systems. 💡 Passionate about challenges that drive technology forward. Let's code the future together! ✨
+🚀 Computer Engineer, focusing on Software Engineering, Algorithms, Database, Cloud Computing, and Artificial Intelligence. 💻 Transforming concepts into robust and efficient code. 🌐 Specialized in designing innovative and scalable systems. 💡 Passionate about challenges that drive technology forward. Let's code the future together! ✨
 
 📅 Working in the code industry since 2021 and coding since 17 years old.
 
